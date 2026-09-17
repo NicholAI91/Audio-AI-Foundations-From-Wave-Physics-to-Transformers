@@ -43,3 +43,23 @@ pip install -r requirements.txt
 python src/dsp/stft.py
 
 python src/features/mfcc.py
+
+
+
+Wave Equation
+      ↓
+Fourier Analysis
+      ↓
+FFT & Sampling
+      ↓
+STFT & Spectrograms
+      ↓
+Mel Scale & MFCCs
+      ↓
+CNN Audio Models
+      ↓
+Audio Transformers
+      ↓
+Neural Audio Codecs
+      ↓
+Generative Audio AI
